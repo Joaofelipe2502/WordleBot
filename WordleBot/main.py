@@ -1,9 +1,6 @@
 # 0 is gray
 # 1 is yellow
 # 2 is green
-import cProfile
-import math
-import pstats
 import random
 import time
 from statistics import mean
